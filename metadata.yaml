@@ -1,0 +1,48 @@
+_repo: Egy-regi-udvarhaz-utolso-gazdaja-Nok-a-tukor-elott-A-ven-szinesz_68537
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Schöpflin, Aladár
+    alias: Schopflin, Aladar
+    birthdate: 1872
+    deathdate: 1950
+    gutenberg_agent_id: '53082'
+    url: http://www.gutenberg.org/2009/agents/53082
+    wikipedia: https://hu.wikipedia.org/wiki/Sch%C3%B6pflin_Alad%C3%A1r
+  illustrator:
+    agent_name: Bér, Dezső
+    alias: Ber, Dezso
+    birthdate: 1875
+    deathdate: 1924
+    gutenberg_agent_id: '54817'
+    url: http://www.gutenberg.org/2009/agents/54817
+    wikipedia: https://hu.wikipedia.org/wiki/B%C3%A9r_Dezs%C5%91
+creator:
+  author:
+    agent_name: Gyulai, Pál
+    alias: Gyulai, Pal
+    birthdate: 1826
+    deathdate: 1909
+    gutenberg_agent_id: '42135'
+    url: http://www.gutenberg.org/2009/agents/42135
+    wikipedia: https://hu.wikipedia.org/wiki/Gyulai_P%C3%A1l_%28irodalomt%C3%B6rt%C3%A9n%C3%A9sz%29
+description: ''
+gutenberg_issued: '2022-07-16'
+identifiers:
+  gutenberg: '68537'
+language: hu
+pgterms:marc905: 20220708101456gyulai
+pgterms:marc906: '1911'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Internet
+  Archive
+publication_note: Hungary :Franklin-Társulat,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian fiction -- 19th century'
+- !lcc 'PH'
+- GITenberg
+title: Egy régi udvarház utolsó gazdája; Nők a tükör előtt; A vén szinész
+url: http://www.gutenberg.org/ebooks/68537
